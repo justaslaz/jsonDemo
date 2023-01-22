@@ -1,12 +1,84 @@
 {
-  "InsuranceCompanies": {
-    "Top Insurance Companies": [
-      {
-        "No": "1",
-        "Name": "Berkshire Hathaway",
-        "Market Capitalization": "$661 B"
-      }
-    ],
-    "Time": "Dec 2022"
-  }
+  "foodRecipes": [
+    {
+      "id": "0001",
+      "name": "Perlinių kruopų košė",
+      "categories": ["pusryčiai"],
+      "imageUrl": "url",
+      "sourceUrl": null,
+      "ingredients": [
+        { "item": "perlinės kruopos", "quantity": 100, "unit": "g" },
+        { "item": "sviestas", "quantity": 15, "unit": "g" },
+        {
+          "item": "druskos ir/ar kitų prieskonių pagal skonį",
+          "quantity": null,
+          "unit": ""
+        }
+      ],
+      "additionalNotes": [null],
+      "preparationSteps": [
+        "Įberiame druskos ir verdame 1 min.",
+        "Brinkiname 5-15 min. (kruopos turi išlikti kramtomos konsistencijos)",
+        "Įdedame sviestą, druskos ir išmaišome"
+      ],
+      "servings": 1,
+      "cookingTime": 15
+    },
+    {
+      "id": "0002",
+      "name": "Avižų kruopų košė su cinamonu ir kokoso drožlėmis",
+      "categories": ["pusryčiai"],
+      "imageUrl": "url",
+      "sourceUrl": null,
+      "ingredients": [
+        { "item": "avižinės kruopos", "quantity": 100, "unit": "g" },
+        { "item": "sviestas", "quantity": 6, "unit": "g" },
+        { "item": "kokoso drožlės", "quantity": 10, "unit": "g" },
+        {
+          "item": "cinamonas",
+          "quantity": null,
+          "unit": ""
+        }
+      ],
+      "additionalNotes": [null],
+      "preparationSteps": [
+        "Įberiame druskos ir verdame 1-2 min.",
+        "Brinkiname 5-10 min. (kruopos turi išlikti kramtomos konsistencijos)",
+        "Įdedame sviestą, kokoso drožles, cinamoną ir išmaišome"
+      ],
+      "servings": 1,
+      "cookingTime": 15
+    },
+    {
+      "id": "0003",
+      "name": "Avižų kruopų košė (saulėta)",
+      "categories": ["pusryčiai"],
+      "imageUrl": "url",
+      "sourceUrl": null,
+      "ingredients": [
+        { "item": "avižinės kruopos", "quantity": 100, "unit": "g" },
+        { "item": "sviestas", "quantity": 15, "unit": "g" },
+        {
+          "item": "ciberžolės (ant peilio galo)",
+          "quantity": null,
+          "unit": ""
+        },
+        {
+          "item": "druskos ir/ar kitų prieskonių pagal skonį",
+          "quantity": null,
+          "unit": ""
+        }
+      ],
+      "additionalNotes": [
+        "vietoj sviesto galima dėti 1 a. š. kanapių arba linų sėmenų aliejaus"
+      ],
+      "preparationSteps": [
+        "Įberiame druskos ir verdame 1-2 min.",
+        "Brinkiname 5-10 min. (kruopos turi išlikti kramtomos konsistencijos)",
+        "Įdedame sviestą, ciberžolę ir išmaišome"
+      ],
+      "servings": 1,
+      "cookingTime": 15
+    }
+  ]
 }
