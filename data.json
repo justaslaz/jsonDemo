@@ -4,7 +4,7 @@
       "id": "0001",
       "name": "Perlinių kruopų košė",
       "categories": ["pusryčiai"],
-      "imageUrl": "url",
+      "imageUrl": "https://i.ibb.co/6mBLbJW/dish-avocado-salad.jpg",
       "sourceUrl": null,
       "ingredients": [
         { "item": "perlinės kruopos", "quantity": 100, "unit": "g" },
@@ -28,7 +28,7 @@
       "id": "0002",
       "name": "Avižų kruopų košė su cinamonu ir kokoso drožlėmis",
       "categories": ["pusryčiai"],
-      "imageUrl": "url",
+      "imageUrl": "https://i.ibb.co/zJbVb7J/dish-pasta.jpg",
       "sourceUrl": null,
       "ingredients": [
         { "item": "avižinės kruopos", "quantity": 100, "unit": "g" },
@@ -53,7 +53,7 @@
       "id": "0003",
       "name": "Avižų kruopų košė (saulėta)",
       "categories": ["pusryčiai"],
-      "imageUrl": "url",
+      "imageUrl": "https://i.ibb.co/BLbLvD8/dish-pizza.jpg",
       "sourceUrl": null,
       "ingredients": [
         { "item": "avižinės kruopos", "quantity": 100, "unit": "g" },
