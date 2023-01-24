@@ -4,11 +4,11 @@
       "id": "0001",
       "name": "Perlinių kruopų košė",
       "categories": ["pusryčiai"],
-      "imageUrl": "https://i.ibb.co/6mBLbJW/dish-avocado-salad.jpg",
+      "imageUrl": null,
       "sourceUrl": null,
       "ingredients": [
-        { "item": "perlinės kruopos", "quantity": 100, "unit": "g" },
-        { "item": "sviestas", "quantity": 15, "unit": "g" },
+        { "item": "perlinių kruopų", "quantity": 100, "unit": "g" },
+        { "item": "sviesto", "quantity": 15, "unit": "g" },
         {
           "item": "druskos ir/ar kitų prieskonių pagal skonį",
           "quantity": null,
@@ -31,9 +31,9 @@
       "imageUrl": "https://i.ibb.co/zJbVb7J/dish-pasta.jpg",
       "sourceUrl": null,
       "ingredients": [
-        { "item": "avižinės kruopos", "quantity": 100, "unit": "g" },
-        { "item": "sviestas", "quantity": 6, "unit": "g" },
-        { "item": "kokoso drožlės", "quantity": 10, "unit": "g" },
+        { "item": "avižinių kruopų", "quantity": 100, "unit": "g" },
+        { "item": "sviesto", "quantity": 6, "unit": "g" },
+        { "item": "kokoso drožlių", "quantity": 10, "unit": "g" },
         {
           "item": "cinamonas",
           "quantity": null,
@@ -56,8 +56,8 @@
       "imageUrl": "https://i.ibb.co/BLbLvD8/dish-pizza.jpg",
       "sourceUrl": null,
       "ingredients": [
-        { "item": "avižinės kruopos", "quantity": 100, "unit": "g" },
-        { "item": "sviestas", "quantity": 15, "unit": "g" },
+        { "item": "avižinių kruopų", "quantity": 100, "unit": "g" },
+        { "item": "sviesto", "quantity": 15, "unit": "g" },
         {
           "item": "ciberžolės (ant peilio galo)",
           "quantity": null,
