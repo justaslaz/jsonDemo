@@ -35,7 +35,7 @@
         { "item": "sviesto", "quantity": 6, "unit": "g" },
         { "item": "kokoso drožlių", "quantity": 10, "unit": "g" },
         {
-          "item": "cinamonas",
+          "item": "cinamono",
           "quantity": null,
           "unit": ""
         }
@@ -77,6 +77,71 @@
         "Brinkiname 5-10 min. (kruopos turi išlikti kramtomos konsistencijos)",
         "Įdedame sviestą, ciberžolę ir išmaišome"
       ],
+      "servings": 1,
+      "cookingTime": 15
+    },
+    {
+      "id": "0004",
+      "name": "Troškinta vištiena su moliūgu ir morkomis",
+      "categories": ["vištiena"],
+      "imageUrl": null,
+      "sourceUrl": null,
+      "ingredients": [
+        { "item": "vištienos krūtinėlės", "quantity": 200, "unit": "g" },
+        { "item": "moliūgo", "quantity": 60, "unit": "g" },
+        { "item": "morkos", "quantity": 50, "unit": "g" },
+        { "item": "svogūno", "quantity": 30, "unit": "g" },
+        { "item": "lydyto sviesto", "quantity": 1, "unit": "a. š." },
+        {
+          "item": "šviežio arba džiovinto mairūno ir baziliko",
+          "quantity": null,
+          "unit": ""
+        },
+        {
+          "item": "česnako",
+          "quantity": null,
+          "unit": ""
+        },
+        {
+          "item": "druskos ir/ar kitų prieskonių pagal skonį",
+          "quantity": null,
+          "unit": ""
+        }
+      ],
+      "additionalNotes": ["Reikia palikti marinuoti mėsą"],
+      "preparationSteps": [
+        "Vištieną ištriname smulkintu baziliku, mairūnu, česnaku ir druska. Paliekame marinuotis bent 2 val.",
+        "Sutarkuojame morką",
+        "Susmulkiname svogūną, moliūgą",
+        "Viską sudedame į gilią keptuvę ir apkepame kelias minutes ant lydyto sviesto, kol švelniai pagels",
+        "Įpilame šiek tiek vandens, bet kad neapsemtų, ir kartu su vištiena troškiname 20 min. ant silpnos ugnies"
+      ],
+      "servings": 1,
+      "cookingTime": 15
+    },
+    {
+      "id": "0005",
+      "name": "Makaronai su vištiena test test test",
+      "categories": ["vištiena", "makaronai"],
+      "imageUrl": null,
+      "sourceUrl": null,
+      "ingredients": [
+        { "item": "vištienos krūtinėlės", "quantity": 200, "unit": "g" },
+        { "item": "pilno grūdo makaronų", "quantity": 250, "unit": "g" },
+        { "item": "lydyto sviesto", "quantity": 1, "unit": "a. š." },
+        {
+          "item": "česnako",
+          "quantity": null,
+          "unit": ""
+        },
+        {
+          "item": "druskos ir/ar kitų prieskonių pagal skonį",
+          "quantity": null,
+          "unit": ""
+        }
+      ],
+      "additionalNotes": null,
+      "preparationSteps": ["test1", "test2", "test3", "test4", "test5"],
       "servings": 1,
       "cookingTime": 15
     }
